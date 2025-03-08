@@ -1,38 +1,37 @@
-# 🚀 Discord Community Bot
+# 🚀 בוט קהילת דיסקורד, 
 
-Welcome to the **Discord Community Bot** repository! 🎉 This bot is designed to enhance your server experience with various features and commands. Please note that **you are not allowed to copy, redistribute, or modify the files in this repository** without permission. ⚠️
+ברוכים הבאים למאגר **Discord Community Bot**! 🎉 הבוט הזה נועד לשפר את חוויית השרת שלך עם תכונות ופקודות שונות. שים לב ש**אינך רשאי להעתיק, להפיץ מחדש או לשנות את הקבצים במאגר זה** ללא רשות. ⚠️
 
-## 📌 Features
+## 📌 תכונות
 
-- 🤖 Advanced moderation tools
-- 🛡️ Security enhancements
-- 🔄 Regular updates with new features!
+- 🤖 כלי ניהול מתקדמים
+- 🛡️ שיפורי אבטחה
+- 🔄 עדכונים שוטפים עם תכונות חדשות!
 
-## 📥 Installation
+## 📥 התקנה
 
-To set up the bot on your own system:
+כדי להגדיר את הבוט במערכת משלך:
 
-```bash
+```באש
 npm install discord.js
 ```
 
-Make sure you have **Node.js** and **discord.js** installed.
+ודא שהתקנת את **Node.js** ו-**discord.js**.
 
-## 🔄 Updates
+## 🔄 עדכונים
 
-This bot receives frequent updates to improve performance and add new features! ✨ Stay tuned for upcoming enhancements!.
+הבוט הזה מקבל עדכונים תכופים כדי לשפר את הביצועים ולהוסיף תכונות חדשות! ✨ הישאר מעודכן לגבי שיפורים בקרוב!.
 
-## ⚠️ Important Notice
+## ⚠️ הודעה חשובה
 
-- **Do NOT copy or redistribute this bot's files**. 🛑
-- All code is protected, and unauthorized use is prohibited.
-- If you want to contribute, feel free to open an issue or a pull request!
+- **אין להעתיק או להפיץ מחדש את הקבצים של הבוט הזה**. 🛑
+- כל הקוד מוגן, ושימוש לא מורשה אסור.
+- אם אתה רוצה לתרום, אתה מוזמן לפתוח נושא או בקשת משיכה!
 
-## 🤝 Contributing
+## 🤝 תורם
 
-Want to suggest a feature or report a bug? Open an issue or a pull request! We appreciate community feedback. 💬
+רוצה להציע תכונה או לדווח על באג? פתח בעיה או בקשת משיכה! אנו מעריכים משוב מהקהילה. 💬
 
-## 📜 License
+## 📜 רישיון
 
-This project is private and **not open-source**. Unauthorized use is strictly forbidden. 🚫
-
+הפרויקט הזה הוא פרטי ו**לא קוד פתוח**. שימוש לא מורשה אסור בהחלט. 🚫
